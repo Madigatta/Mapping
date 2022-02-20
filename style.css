@@ -1,0 +1,15 @@
+#mapid { height: 580px; }
+
+
+.hide {
+	display: none !important;
+}
+
+#search {
+	display: block;
+	margin : 30px 0;
+}
+
+#business {
+	width: 30%;
+}
